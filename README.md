@@ -1,4 +1,4 @@
-# Docker Compose Jenkins
+# Traefik Jenkins
 
 A Docker Compose configuration to run [Jenkins](https://jenkins.io/) behind a [Traefik](https://traefik.io/) reverse proxy.
 
